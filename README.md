@@ -1,2 +1,2 @@
-# Ex.-Lab1
+# Tema ASC
 Idee de rezolvare
